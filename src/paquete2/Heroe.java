@@ -31,12 +31,12 @@ public class Heroe {
 
     public void setEdad(int edad) {
         
-        if(edad>1 && edad<120){
+        //if(edad>1 && edad<120){
             this.edad = edad;
             
-        }else{
+        /*}else{
             System.out.println("Edad invalida");
-        }
+        }*/
         
     }
     
